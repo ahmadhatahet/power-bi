@@ -1,14 +1,13 @@
-# Power BI Reports:
-Sample Power BI Reports from different data sources like an API, SQL Server, ... etc. 
-<br />
-<br />
+# GitHub API:
+The main idea is not the report itself, instead the power query "M Language" recursive calls to GitHub API and fetch repositories based on a keyword.
 
-## Reports Description:
+### Example:
+1. Search for "power bi"
+1. "per_page" will specify how many search results a response will contain [default 30, max 100]
+1. Then "page" parameter to specify how many pages [start 1, no upper limit].
+1. Together "per_page" = 30 and "page" = 10 then 300 results will be fetched.
+1. If empty results are returned, this means no further calls is needed. Total count is reached for choosen keyword.
 
-### GitHub API:
-Fetch Data from GitHub API - Search with easy to modify parameters like: search query, per page, and how many pages to fetch.
-__Example:__
-- Search for "power bi"
-- This will give us results, "per_page" will specify how many search results a response will contain (default 30, max 100)
-- Then "page" parameter to specify how many pages.
-- If "per_page" = 30 and "page" = 10 -> 300 results will be fetched
+
+### Dashboard
+<img src="https://github.com/ahmadhatahet/power-bi/blob/master/GitHub%20API/Dashboard.png" width="512">
