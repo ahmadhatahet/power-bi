@@ -8,3 +8,8 @@
 <img src="https://github.com/ahmadhatahet/power-bi/blob/master/Adventure%20Works%20Sample%20Report/Main%20Dashboard.png" width="512">
 
 ### [PDF Presentation](https://github.com/ahmadhatahet/power-bi/blob/master/Adventure%20Works%20Sample%20Report/Adventure%20Works.pdf)
+
+### Live Video
+The video was streamed in Arabic Language, if you non Arabic speaker, feel free to enjoy the sound of our language 😊
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmakeitgermancom%2Fvideos%2F843758030007117%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
