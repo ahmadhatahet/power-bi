@@ -9,7 +9,7 @@
 
 ### [PDF Presentation](https://github.com/ahmadhatahet/power-bi/blob/master/Adventure%20Works%20Sample%20Report/Adventure%20Works.pdf)
 
-### Live Video
+### [Live Video](https://fb.watch/hmKiraoyW8/)
 The video was streamed in Arabic Language, if you non Arabic speaker, feel free to enjoy the sound of our language 😊
 
-<video src='https://fb.watch/hmKiraoyW8/' width=512 />
+<video src='https://fb.watch/hmKiraoyW8/' width=512>
