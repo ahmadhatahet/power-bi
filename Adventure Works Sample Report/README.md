@@ -12,4 +12,4 @@
 ### Live Video
 The video was streamed in Arabic Language, if you non Arabic speaker, feel free to enjoy the sound of our language 😊
 
-<video src='[your URL here](https://fb.watch/hmKiraoyW8/)' width=512 />
+<video src='https://fb.watch/hmKiraoyW8/' width=512 />
